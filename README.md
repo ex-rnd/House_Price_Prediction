@@ -113,14 +113,14 @@ Tuned:
 Cross‑validation (`cv=5`) ensured stable, reliable performance estimates.
 
 
-### 🧠 9. Interpretation of Results
+### 🧠 8. Interpretation of Results
 Key insights:
 - XGBoost captured complex relationships and delivered strong performance, especially after tuning.
 - Decision Tree was highly flexible but overfit the training data without depth constraints.
 - Features like RM, LSTAT, and PTRATIO strongly influenced price predictions.
 - Comparing training vs testing metrics highlighted overfitting and guided tuning decisions.
 
-### 🏢 10. Industry Use‑Case Summary
+### 🏢 9. Industry Use‑Case Summary
 - Real estate agents — setting fair listing prices
 - Mortgage lenders — assessing collateral value
 - Property developers — identifying undervalued areas
@@ -129,7 +129,7 @@ Key insights:
 Accurate price prediction reduces uncertainty and supports smarter investment and lending decisions.
 
 
-### 📁 11. Project Structure
+### 📁 10. Project Structure
 ```
 ├── data/
 │   └── boston_housing_raw.txt
